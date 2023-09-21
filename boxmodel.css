@@ -1,0 +1,26 @@
+body{
+  margin: 0px;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  color: white;
+  /* padding: 10px; */
+  border: 20px solid black;
+  margin: 20px;
+  padding: 10px;
+}
+
+.container{
+  display: inline-block;
+  background-color: rgb(255, 0, 0);
+  padding: 10px 3px 10px 20px;
+}
+
+.inner{
+  background-color: green;
+  width: 100px;
+  height: 100px;
+}

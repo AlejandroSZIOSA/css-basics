@@ -1,0 +1,9 @@
+.box{
+    background-color: gray;
+
+}
+
+.mySpan{
+    display: inline-block;
+    background-color: blue;
+}
