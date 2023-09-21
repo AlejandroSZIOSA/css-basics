@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+}
+.myClass{
+    color:rgb(226, 43, 165);
+}
+
+/* order in classes is important */
+p.myParagraph{
+    color: rgb(0, 255, 8);
+}
+.myParagraph{
+    color: aqua;
+}
+*{
+    color:blue
+}
+h1,h2,h3 {
+    color: red;
+}
