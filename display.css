@@ -1,9 +1,8 @@
 .box{
-    background-color: gray;
-
+  background-color: gray;
 }
 
 .mySpan{
-    display: inline-block;
-    background-color: blue;
+  display: inline-block;
+  background-color: blue;
 }
